@@ -1,7 +1,4 @@
-import './bootstrap';
-import 'bootstrap';
-import './carousel.js'
-
+console.log('hello');
 
 let nextDom = document.getElementById('next');
 let prevDom = document.getElementById('prev');

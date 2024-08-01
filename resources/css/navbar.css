@@ -1,0 +1,30 @@
+.navbarstyle{
+    width: 100%;
+    display: flex;
+    justify-content: space-evenly;
+    font-size: larger;
+}
+.navbar{
+    height: 50px;
+    display: flex;
+    max-width: 100%;
+    width: 1140px;
+    position: relative;
+    z-index: 100;
+    padding: 0;
+}
+.navbar a{
+    text-shadow: 1px  1px black;
+    font-size: 1.1em;
+    color: rgba(255, 166, 0, 0.784);
+    transition: .5s;
+    text-align: center;
+
+
+
+}
+
+div nav a:hover{color: orange;
+text-shadow: 0 0 ;}
+
+.col-4{text-align: center;}
